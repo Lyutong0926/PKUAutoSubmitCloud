@@ -48,7 +48,7 @@ PKU一键出入校备案小工具 v1.9.1 (2020.10.10)
 
 #### selenium
 
-采用如下语句安装 `selenium`，支持 2.48.0 及以上版本：
+
 
 ```
 pip3 install selenium
